@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Your Perfect Username</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f5f5f5;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+            padding-top: 50px;
+        }
+        h1 {
+            color: #333;
+            font-size: 24px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Unlock Your Identity Potential!</h1>
+    <p>Empower your online presence with a personalized username!</p>
+    <h2>Welcome, <span th:text="${user.username}">Guest</span>!</h2>
+    <p>Did you know? In the future, your username could be in high demand! Consider that someone might be searching for a username just like yours. Keep that in mind!</p>
+</body>
+</html>
+
