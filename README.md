@@ -14,5 +14,5 @@ The Buy Username Project is a Java web application built with Spring Boot and Hi
 - Java
 - Spring Boot
 - Hibernate
-- Thymeleaf (or your preferred frontend technology)
+- Thymeleaf
 - MySQL (or your preferred database)
