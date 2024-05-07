@@ -15,4 +15,4 @@ The Buy Username Project is a Java web application built with Spring Boot and Hi
 - Spring Boot
 - Hibernate
 - Thymeleaf
-- MySQL (or your preferred database)
+- MySQL
